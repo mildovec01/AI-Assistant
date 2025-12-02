@@ -1,0 +1,17 @@
+# 1. Wake-Word detection ("Hey Chronos")
+pvporcupine
+
+# 2. Speech-to-Text (STT - speech-to-text)
+pvleopard
+
+# 3. Text-to-Speech (TTS - text-to-speech)
+pvorca
+
+# 4. Microphone
+PyAudio
+
+# 5. Communication with local LLM server
+requests
+
+# 6. Editing virtual enviroments
+python-dotenv
