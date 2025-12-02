@@ -1,0 +1,24 @@
+# API keys and settings
+config/.env
+
+.DS_Store
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+
+# Byte-code
+__pycache__/
+*.pyc
+
+# AI models
+models/ollama/
+models/leopard/
+.cache/
+logs/
+*.log
+
+# Temporary audio files
+audio/*.wav
+audio/*.mp3
